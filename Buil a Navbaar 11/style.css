@@ -1,0 +1,28 @@
+.main_div {
+    display: flex;
+  }
+  .img_part {
+    width: 400px;
+    border-radius: 20px;
+  }
+  .main_div p {
+    color: #86868e;
+    padding: 10px 100px 10px 5px;
+  }
+  .arrows {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    width: 40px;
+    height: 40px;
+    text-align: center;
+    border-radius: 50%;
+    float: right;
+    padding-right: 100px;
+  }
+  
+  .inner_arr {
+    border: 1px solid black;
+    padding: 10px;
+    border-radius: 50%;
+  }
